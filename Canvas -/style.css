@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+body, html {
+  height: 100%;
+}
+
+.i-container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+p {
+  padding: 30px;
+}
+
+.i-box {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 800px;
+  height: 800px;
+}
