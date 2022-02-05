@@ -1,0 +1,11 @@
+a {
+  color: aqua;
+}
+
+a:visited {
+  color: lawngreen;
+}
+
+a:hover {
+  color: salmon;
+}
